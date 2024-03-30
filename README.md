@@ -9,7 +9,7 @@
 - All Of my projects are available at <a href="https://app.netlify.com/teams/ranjanupadhya">https://app.netlify.com/teams/ranjanupadhyayvns/overview</a>.<br>
 
 - 📫 How to reach me  <a href="mailto:ranjanupadhyayvns.com">ranjanupadhyayvns@gmail.com</a>.<br><br>
-<address><b>50-D Top Floor, MIG Flats DDA, Shivam Enclave, Shahdara Delhi-110032.</b></address>
+<address><b>MIG Flats DDA, Shivam Enclave, Shahdara Delhi-110032.</b></address>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
