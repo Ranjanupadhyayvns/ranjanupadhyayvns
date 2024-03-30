@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400"
         src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on :- <strong> Grow With Us Venture </strong>Project.<br>
+- 🔭 I’m currently working on :- <strong> Grow With Us Venture </strong><br>
 
-- All Of my projects are available at <a href="https://app.netlify.com/teams/ranjanupadhya"></a>.<br>
+- All Of my projects are available at <a href="https://app.netlify.com/teams/ranjanupadhya">https://app.netlify.com/teams/ranjanupadhyayvns/overview</a>.<br>
 
 - 📫 How to reach me  <a href="mailto:ranjanupadhyayvns.com">ranjanupadhyayvns@gmail.com</a>.<br><br>
 <address><b>50-D Top Floor, MIG Flats DDA, Shivam Enclave, Shahdara Delhi-110032.</b></address>
